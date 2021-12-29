@@ -130,6 +130,7 @@ traitlets==5.1.1
 typing-extensions==3.10.0.2
 ujson==5.1.0
 urllib3==1.26.7
+voila
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.2.3
