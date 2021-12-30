@@ -1,0 +1,120 @@
+﻿Route,Route Name,Predicted,Actual,Rider % Change
+1,Bronzeville/Union Station,631917,73498,-88
+100,          Jeffery Manor Express,141013,72649,-48
+1001,    Shuttle/Special Event Route,958189,147103,-85
+103,                     West 103rd,787274,341008,-57
+106,                     East 103rd,430923,172862,-60
+108,                   Halsted/95th,268535,116561,-57
+11,                        Lincoln,625059,251067,-60
+111,               111th/King Drive,1077417,549362,-49
+111A,                Pullman Shuttle,127824,75020,-41
+112,                Vincennes/111th,639979,263213,-59
+115,                  Pullman/115th,1114418,485579,-56
+119,                 Michigan/119th,1615878,821570,-49
+12,                      Roosevelt,4778934,2144570,-55
+120,  Ogilvie/Streeterville Express,229301,17520,-92
+121,    Union/Streeterville Express,363909,24520,-93
+124,                      Navy Pier,602588,128337,-79
+125,            Water Tower Express,422278,42423,-90
+126,                        Jackson,2024851,733978,-64
+134,       Stockton/LaSalle Express,979554,54529,-94
+135,      Clarendon/LaSalle Express,1203165,90255,-92
+136,       Sheridan/LaSalle Express,658584,88496,-87
+143,      Stockton/Michigan Express,571017,72781,-87
+146,   Inner Drive/Michigan Express,5681671,1903139,-67
+147,            Outer Drive Express,4988822,2074094,-58
+148,     Clarendon/Michigan Express,831556,154653,-81
+15,                  Jeffery Local,2964103,1390424,-53
+151,                       Sheridan,6432883,2409033,-63
+152,                        Addison,3729528,1155430,-69
+155,                          Devon,2588088,1277688,-51
+156,                        LaSalle,2299854,258830,-89
+157,           Streeterville/Taylor,2006435,376985,-81
+165,                      West 65th,73296,25457,-65
+169,               69th-UPS Express,3770,30126,699
+171,        U. of Chicago/Hyde Park,294574,52803,-82
+172,          U. of Chicago/Kenwood,689554,97738,-86
+18,                      16th/18th,1576083,596343,-62
+192,U. of Chicago Hospitals Express,256356,55449,-78
+2,              Hyde Park Express,1269024,182716,-86
+20,                        Madison,6580149,2824345,-57
+201,                  Central/Ridge,893224,250630,-72
+206,            Evanston Circulator,146499,25815,-82
+21,                         Cermak,3681340,1683224,-54
+22,                          Clark,7278905,3014198,-59
+24,                      Wentworth,915257,264139,-71
+26,            South Shore Express,1404654,520163,-63
+28,                   Stony Island,2216794,970205,-56
+29,                          State,4837134,1746826,-64
+3,                     King Drive,6588989,2809531,-57
+30,                  South Chicago,1095230,499505,-54
+34,                 South Michigan,1879162,840250,-55
+35,                      31st/35th,1872878,685850,-63
+36,                       Broadway,5589852,2594132,-54
+37,                       Sedgwick,534906,63399,-88
+39,                       Pershing,713214,285463,-60
+4,                  Cottage Grove,8064298,3796474,-53
+43,                           43rd,535639,264113,-51
+44,                 Wallace-Racine,1142597,499331,-56
+47,                           47th,3985293,1967583,-51
+48,                    South Damen,274688,84757,-69
+49,                        Western,6915584,3199246,-54
+49B,                  North Western,2167589,996089,-54
+5,          South Shore Night Bus,196050,91558,-53
+50,                          Damen,3991576,1382324,-65
+51,                           51st,514302,238113,-54
+52,              Kedzie/California,4937160,1661676,-66
+52A,                   South Kedzie,1564128,677693,-57
+53,                        Pulaski,7597855,3534444,-53
+53A,                  South Pulaski,2686919,1072096,-60
+54,                         Cicero,4081505,2100894,-49
+54A,      North Cicero/Skokie Blvd.,239171,88322,-63
+54B,                   South Cicero,1101408,605678,-45
+55,                       Garfield,3704797,1594392,-57
+55A,                    55th/Austin,90788,23161,-74
+55N,              55th/Narragansett,181870,62173,-66
+56,                      Milwaukee,3587549,1392689,-61
+57,                        Laramie,893473,383901,-57
+59,                      59th/61st,1225714,485058,-60
+6,           Jackson Park Express,4118627,1596578,-61
+60,               Blue Island/26th,4556460,1473093,-68
+62,                         Archer,4194405,1494757,-64
+62H,                  Archer/Harlem,329794,155394,-53
+63,                           63rd,6044773,2845188,-53
+63W,                      West 63rd,587772,259976,-56
+65,                          Grand,3519815,1027116,-71
+66,                        Chicago,8846440,3419358,-61
+67,                 67th-69th-71st,3770844,1822700,-52
+68,              Northwest Highway,337230,170637,-49
+7,                       Harrison,1651096,445552,-73
+70,                       Division,3364256,1392088,-59
+71,               71st/South Shore,3429143,1809275,-47
+72,                          North,5976590,2511762,-58
+73,                       Armitage,2191126,727219,-67
+74,                      Fullerton,4820578,1935397,-60
+75,                      74th-75th,2844791,1339996,-53
+76,                       Diversey,4685331,1864446,-60
+77,                        Belmont,7597027,3079724,-59
+78,                       Montrose,3039180,1041817,-66
+79,                           79th,9936524,4833933,-51
+8,                        Halsted,8879420,2907149,-67
+80,                    Irving Park,4272154,1857703,-57
+81,                       Lawrence,4541108,2296355,-49
+81W,                  West Lawrence,581952,271661,-53
+82,                  Kimball-Homan,6641071,2879693,-57
+84,                       Peterson,1346684,528403,-61
+85,                        Central,3748832,1878669,-50
+85A,                  North Central,232208,99555,-57
+86,         Narragansett/Ridgeland,755867,201971,-73
+87,                           87th,4306400,2036810,-53
+88,                        Higgins,440811,189233,-57
+8A,                  South Halsted,1098923,574793,-48
+9,                        Ashland,7951178,4055085,-49
+90,                         Harlem,1689830,866329,-49
+91,                         Austin,2367253,1151779,-51
+92,                         Foster,2327890,1101976,-53
+93,               California/Dodge,1301104,524287,-60
+94,               South California,3282932,1813597,-45
+96,                           Lunt,267139,103781,-61
+97,                         Skokie,1193400,542532,-55
+J14,                   Jeffery Jump,4291260,1603627,-63
